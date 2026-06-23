@@ -246,21 +246,19 @@
 ---
 
 ### 📂 ساختار پوشه‌ها
-
-src/
-├── components/
-│ ├── Header.jsx # هدر سایت با ناوبری
-│ └── Loading.jsx # کامپوننت لودینگ
-├── pages/
-│ ├── post/
-│ │ ├── Index.jsx # لیست پست‌ها
-│ │ └── Show.jsx # جزئیات پست
-│ └── user/
-│ ├── Index.jsx # لیست کاربران
-│ └── Show.jsx # جزئیات کاربر
-├── App.jsx # کامپوننت اصلی
-└── main.jsx # نقطه ورود برنامه
-و موارد بیشتر...
+- components/
+- Header.jsx
+- Loading.jsx
+- pages/
+- post/
+- Index.jsx
+- Show.jsx
+- user/
+- Index.jsx
+- Show.jsx
+- App.jsx
+- Home.jsx
+and etc...
 
 ---
 
@@ -509,20 +507,19 @@ src/
 
 ### 📁 Folder Structure
 
-src/
-├── components/
-│ ├── Header.jsx # Site header with navigation
-│ └── Loading.jsx # Loading component
-├── pages/
-│ ├── post/
-│ │ ├── Index.jsx # List of posts
-│ │ └── Show.jsx # Post details
-│ └── user/
-│ ├── Index.jsx # List of users
-│ └── Show.jsx # User details
-├── App.jsx # Main component
-└── main.jsx # Application entry point
-etc...
+- components/
+- Header.jsx
+- Loading.jsx
+- pages/
+- post/
+- Index.jsx
+- Show.jsx
+- user/
+- Index.jsx
+- Show.jsx
+- App.jsx
+- Home.jsx
+and etc...
 
 ---
 
